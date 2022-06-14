@@ -31,7 +31,7 @@ An API was developed to provide an uniform access interface which we consider to
 
 ### Architecture
 
-![Orwell Architecture](../assets/architecture.png)
+![Orwell Architecture](https://orwellmonitoring.github.io/assets/architecture.png)
 
 All the modules presented in Orwell Architecture have a mechanism of one touch deployment (mostly Docker) which makes it easy to assemble your own architecture and solution based on your needs.
 
