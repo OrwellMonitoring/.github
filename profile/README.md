@@ -42,7 +42,7 @@ All the modules presented in Orwell Architecture have a mechanism of one touch d
 - [deliverables](https://github.com/OrwellMonitoring/deliverables): all the deliverables we developed throughout the course like presentations and posters
 - [documentation](https://github.com/OrwellMonitoring/documentation): documentation web site source code
 - [orwell-documentation](https://github.com/OrwellMonitoring/orwell-documentation): docussaurus code
-- [orwell-core](https://github.com/OrwellMonitoring/orwell-core): Orwell's API, Gnocchi Puller and Service Discovery
+- [orwell-middleware](https://github.com/OrwellMonitoring/orwell-middleware): Orwell's API, Gnocchi Puller and Service Discovery
 - [orwell-translators](https://github.com/OrwellMonitoring/orwell-translators): source code for all translators
 - [orwell-python-package](https://github.com/OrwellMonitoring/orwell-python-package): our python package source code
 - [esight_connector](https://github.com/OrwellMonitoring/esight_connector): eSight's pull service
