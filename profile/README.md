@@ -41,14 +41,14 @@ All the modules presented in Orwell Architecture have a mechanism of one touch d
 - [orwellmonitoring.github.io](https://github.com/OrwellMonitoring/orwellmonitoring.github.io): project's website source code
 - [deliverables](https://github.com/OrwellMonitoring/deliverables): all the deliverables we developed throughout the course like presentations and posters
 - [documentation](https://github.com/OrwellMonitoring/documentation): documentation web site source code
-// - [orwell-documentation](https://github.com/OrwellMonitoring/orwell-documentation): docussaurus code
+<!-- - [orwell-documentation](https://github.com/OrwellMonitoring/orwell-documentation): docussaurus code -->
 - [orwell-middleware](https://github.com/OrwellMonitoring/orwell-middleware): Orwell's API, Gnocchi Puller and Service Discovery
 - [orwell-translators](https://github.com/OrwellMonitoring/orwell-translators): source code for all translators
 - [orwell-python-package](https://github.com/OrwellMonitoring/orwell-python-package): our python package source code
 - [esight_connector](https://github.com/OrwellMonitoring/esight_connector): eSight's pull service
 - [suricata_config](https://github.com/OrwellMonitoring/suricata_config): Suricata configuration files
 - [orwell-manager](https://github.com/OrwellMonitoring/orwell-manager): Orwell's configuration WebApp 
-// - [report](https://github.com/OrwellMonitoring/report): our report's latex files
+<!-- - [report](https://github.com/OrwellMonitoring/report): our report's latex files -->
 - [infection-monkey-api](https://github.com/OrwellMonitoring/infection-monkey-api): selenium API for Infection Monkey interface
 - [orwell-boot-services](https://github.com/OrwellMonitoring/orwell-boot-services): all services used to produce OS Images with built in metrics exporters
 - [orwell-storage-visualization](https://github.com/OrwellMonitoring/orwell-storage-visualization): Prometheus and Grafana configuration
